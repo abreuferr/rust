@@ -1,0 +1,11 @@
+# Artefatos gerados pelo Cargo
+target/
+**/target/
+
+# Arquivos de backup criados pelo rustfmt
+**/*.rs.bk
+
+# Arquivos locais de IDE e sistema operacional
+.idea/
+.vscode/
+.DS_Store
